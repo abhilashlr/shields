@@ -207,7 +207,7 @@
     "husky": "^4.2.5",
     "icedfrisby": "3.0.0",
     "icedfrisby-nock": "^2.0.0",
-    "is-png": "^2.0.0",
+    "is-png": "^3.0.0",
     "is-svg": "^4.2.1",
     "js-yaml-loader": "^1.2.2",
     "jsdoc": "^3.6.4",
