@@ -34,7 +34,7 @@
     "config": "^3.3.1",
     "cross-env": "^7.0.2",
     "decamelize": "^3.2.0",
-    "dotenv": "^8.2.0",
+    "dotenv": "^9.0.2",
     "emojic": "^1.1.15",
     "escape-string-regexp": "^4.0.0",
     "fast-xml-parser": "^3.17.4",
